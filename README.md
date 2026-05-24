@@ -21,6 +21,7 @@ This mod removes that required force, allowing jumps to register instantly and f
 #### 🚧 TODOs
 
 - _Disable mod intentionally in ranked COMP codes_
+- _Fix update initially instead of a looping timer_ (performance)
 
 ## Isn't that cheating?
 
