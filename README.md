@@ -1,3 +1,12 @@
+## Instructions
+
+1. Setup BepInEx for Gorilla Tag with [MonkeModManager](https://github.com/BzzzThe18th/MonkeModManager) (Recommended)
+2. Download `RawJumps.dll` or `RawJumps.zip` -- [Latest Release](https://github.com/FlyinC4T/GT-RawJumps/releases/latest)
+3. Move the mod (`.dll`) to your mods folder (`Gorilla Tag/BepInEx/plugins/`)
+
+> The mod can't break unless AA decides to rename their fields or class names like they already did previously with Player, now called GTPlayer.
+> This mod tries to set `GTPlayer.velocityLimit` and `GTPlayer.slideVelocityLimit` to `0`, every 7 seconds. By default these are `0.3` and `0.7`.
+
 # RawJumps - How it works
 
 Gorilla Tag normally requires a small amount of force before a jump properly pushes you off the floor. This was originally added around 2022 to make wall climbing easier and movement more forgiving.
@@ -23,7 +32,7 @@ This mod removes that required force, allowing jumps to register instantly and f
 - _Disable mod intentionally in ranked COMP codes_
 - _Fix update initially instead of a looping timer_ (performance)
 
-## Isn't that cheating?
+## ❗ Isn't that cheating?
 
 Depends who you ask.
 
@@ -35,7 +44,7 @@ That said, it is still a mod, and Gorilla Tag's Code of Conduct generally discou
 
 Use it at your own risk and respect the rules of any lobby, competition, or community you play in.
 
-## Disclaimers
+## ❕ Disclaimers
 
 This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. ©2021 Another Axiom LLC.
 
