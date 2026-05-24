@@ -4,7 +4,7 @@ Gorilla Tag normally requires a small amount of force before a jump properly pus
 
 This mod removes that required force, allowing jumps to register instantly and feel less glued to surfaces. The result is looser movement with more precise jump control and micro-management.
 
-#### CONS
+#### ❌ CONS
 - Wall climbing generally feels harder
 - Positioning after jumps can feel stricter and less forgiving
 - This is still a gameplay-changing mod
@@ -12,11 +12,15 @@ This mod removes that required force, allowing jumps to register instantly and f
   - ⚠️ This mod is active immediately when the game launches
   - ⚠️ Disabling it requires removing it from your mods folder
 
-#### PROS
+#### ✅ PROS
 - More precise jump control
 - Better micro-management during movement
 - Slippery walls and "slip slaps" are easier to manage
 - ✔️ **Does not require Utilla**
+
+#### 🚧 TODOs
+
+- _Disable mod intentionally in ranked COMP codes_
 
 ## Isn't that cheating?
 
